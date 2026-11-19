@@ -1,1 +1,30 @@
 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071B25"/>
+      <stop offset="55%" stop-color="#0B302E"/>
+      <stop offset="100%" stop-color="#102B50"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#31D6A0"/>
+      <stop offset="100%" stop-color="#38A9FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="360" rx="22" fill="url(#bg)"/>
+  <circle cx="850" cy="70" r="170" fill="#22C99A" opacity=".08"/>
+  <circle cx="900" cy="300" r="170" fill="#329BFF" opacity=".09"/>
+  <path d="M0 290 Q250 210 470 310 T1000 250" fill="none" stroke="#39D6B0" opacity=".13" stroke-width="2"/>
+  <text x="65" y="65" fill="#48DDB0" font-family="Arial" font-size="15" letter-spacing="4">HELLO, WORLD!</text>
+  <text x="65" y="135" fill="#FFFFFF" font-family="Arial" font-size="48" font-weight="bold">RVEHAT JAVED</text>
+  <rect x="67" y="157" width="100" height="4" rx="2" fill="url(#accent)"/>
+  <text x="65" y="205" fill="#D8F5ED" font-family="Arial" font-size="23">Full-Stack Web Developer</text>
+  <text x="65" y="246" fill="#A9C9D0" font-family="Arial" font-size="17">Python • Django • REST APIs • PostgreSQL</text>
+  <text x="65" y="295" fill="#48DDB0" font-family="Arial" font-size="16">Building ideas into real-world applications.</text>
+  <rect x="760" y="72" width="170" height="210" rx="18" fill="#FFFFFF" opacity=".07" stroke="#48DDB0" stroke-opacity=".7"/>
+  <circle cx="845" cy="145" r="43" fill="#173F43" stroke="#48DDB0" stroke-width="2"/>
+  <text x="845" y="158" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="34" font-weight="bold">RJ</text>
+  <text x="845" y="220" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="17" font-weight="bold">DEVELOPER</text>
+  <text x="845" y="246" text-anchor="middle" fill="#48DDB0" font-family="Arial" font-size="12">PYTHON &amp; DJANGO</text>
+</svg>
