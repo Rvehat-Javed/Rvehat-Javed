@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**Rvehat-Javed/Rvehat-Javed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./assets/hero.svg" width="100%" alt="Rvehat Javed - Full Stack Developer"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="right">
+<img src="https://github.com/Rvehat-Javed.png" width="120" alt="Rvehat Javed"/>
+</div>
+
+<div align="center">
+
+<img src="./assets/about-life.svg" width="100%" alt="About Me"/>
+
+<img src="./assets/stack.svg" width="100%" alt="My Tech Stack"/>
+
+</div>
+
+## 🚀 Things I've Built
+
+| Project | What it does | Focus |
+|---|---|---|
+| **Shop / POS Management System** | Product, inventory and sales management | Django + POS |
+| **Restaurant Management System** | Restaurant and order management | Full Stack |
+| **Software House Training Institute Management System** | Employee, training and course management | Django + REST API |
+| **Student Showcase Platform** | Students showcase and share their projects | Django + DRF |
+
+<div align="center">
+
+<img src="./assets/dashboard.svg" width="100%" alt="Developer Dashboard"/>
+
+<img src="./assets/connect.svg" width="100%" alt="Connect With Me"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rvehat-javed-0323a6408/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://rvehat-javed-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-16A879?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://github.com/Rvehat-Javed">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+<div align="center">
+
+**Curious by default. Building with intent. 💚**
+
+</div>
