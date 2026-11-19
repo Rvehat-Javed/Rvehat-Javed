@@ -1,0 +1,37 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071B25"/>
+      <stop offset="100%" stop-color="#102B50"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#31D6A0"/>
+      <stop offset="100%" stop-color="#38A9FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="310" rx="20" fill="url(#bg)"/>
+  <text x="45" y="55" font-family="Arial" font-size="15" letter-spacing="3" fill="#48DDB0">MY TOOLKIT</text>
+  <text x="45" y="105" font-family="Arial" font-size="32" font-weight="bold" fill="#FFFFFF">Technologies &amp; Skills</text>
+  <rect x="45" y="120" width="90" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Arial" font-size="17" font-weight="bold" text-anchor="middle">
+    <rect x="45" y="155" width="175" height="52" rx="10" fill="#123D3B" stroke="#31D6A0"/>
+    <text x="132" y="187" fill="#FFFFFF">Python</text>
+    <rect x="235" y="155" width="175" height="52" rx="10" fill="#123D3B" stroke="#31D6A0"/>
+    <text x="322" y="187" fill="#FFFFFF">Django</text>
+    <rect x="425" y="155" width="175" height="52" rx="10" fill="#123D3B" stroke="#31D6A0"/>
+    <text x="512" y="187" fill="#FFFFFF">JavaScript</text>
+    <rect x="615" y="155" width="175" height="52" rx="10" fill="#123D3B" stroke="#31D6A0"/>
+    <text x="702" y="187" fill="#FFFFFF">PostgreSQL</text>
+    <rect x="805" y="155" width="150" height="52" rx="10" fill="#123D3B" stroke="#31D6A0"/>
+    <text x="880" y="187" fill="#FFFFFF">HTML / CSS</text>
+    <rect x="140" y="225" width="175" height="48" rx="10" fill="#142F50" stroke="#38A9FF"/>
+    <text x="227" y="255" fill="#FFFFFF">Bootstrap</text>
+    <rect x="330" y="225" width="175" height="48" rx="10" fill="#142F50" stroke="#38A9FF"/>
+    <text x="417" y="255" fill="#FFFFFF">REST APIs</text>
+    <rect x="520" y="225" width="175" height="48" rx="10" fill="#142F50" stroke="#38A9FF"/>
+    <text x="607" y="255" fill="#FFFFFF">Git &amp; GitHub</text>
+    <rect x="710" y="225" width="150" height="48" rx="10" fill="#142F50" stroke="#38A9FF"/>
+    <text x="785" y="255" fill="#FFFFFF">Docker</text>
+  </g>
+</svg>
