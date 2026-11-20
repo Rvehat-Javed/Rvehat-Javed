@@ -1,55 +1,24 @@
-
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Rvehat Javed - Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F5D6A0&height=220&section=header&text=Rvehat%20Javed&fontSize=60&fontColor=F5D6A0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-</div>
+<img src="./assets/profile.jpeg" width="150"/>
 
-<div align="right">
-<img src="https://github.com/Rvehat-Javed.png" width="120" alt="Rvehat Javed"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F5D6A0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+Python+%7C+Flutter;Building+clean+and+useful+software" />
 
-<div align="center">
+<br/>
 
-<img src="./assets/about-life.svg" width="100%" alt="About Me"/>
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,flutter,dart,git,github&theme=dark" />
 
-<img src="./assets/stack.svg" width="100%" alt="My Tech Stack"/>
+<br/><br/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rvehat-Javed&show_icons=true&theme=transparent&title_color=F5D6A0&icon_color=F5D6A0&text_color=ffffff&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=Rvehat-Javed&theme=dark&background=00000000&ring=F5D6A0&fire=F5D6A0&currStreakLabel=F5D6A0&hide_border=true" />
 
-## 🚀 Things I've Built
+<br/><br/>
 
-| Project | What it does | Focus |
-|---|---|---|
-| **Shop / POS Management System** | Product, inventory and sales management | Django + POS |
-| **Restaurant Management System** | Restaurant and order management | Full Stack |
-| **Software House Training Institute Management System** | Employee, training and course management | Django + REST API |
-| **Student Showcase Platform** | Students showcase and share their projects | Django + DRF |
+<img src="https://raw.githubusercontent.com/Rvehat-Javed/Rvehat-Javed/output/github-snake-dark.svg" width="100%"/>
 
-<div align="center">
-
-<img src="./assets/dashboard.svg" width="100%" alt="Developer Dashboard"/>
-
-<img src="./assets/connect.svg" width="100%" alt="Connect With Me"/>
-
-</div>
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/rvehat-javed-0323a6408/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://rvehat-javed-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-16A879?style=for-the-badge&logo=vercel"/>
-</a>
-<a href="https://github.com/Rvehat-Javed">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-<div align="center">
-
-**Curious by default. Building with intent. 💚**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F5D6A0&height=100&section=footer" width="100%"/>
 
 </div>
